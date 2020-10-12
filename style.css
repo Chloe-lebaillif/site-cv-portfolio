@@ -1,0 +1,56 @@
+html, body {
+    margin: 0;
+    display: table;
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    font-family:'Montserrat', sans-serif;
+}
+
+/*Menu*/
+
+.navbar-brand{
+    font-family: 'Chewy', cursive;
+    font-size: 30px;
+    padding-left: 30px;
+}
+
+.nav-item{
+    padding-left: 50px;
+}
+
+/*Bas de page*/
+
+footer{
+    display: table-row;
+    background-color: #332c36;
+}
+
+.containerbas{
+    padding-top: 15px;
+}
+
+.linkedin{
+    font-size: smaller;
+    color: white;
+    padding-top: 10px;
+
+}
+
+.ligne{
+    border: 0.5px solid #c4b8d3;
+    margin-bottom: 35px;
+
+}
+
+.bas1{
+    font-size: smaller;
+}
+
+.bas2{
+    font-family: 'Chewy', cursive;
+    font-size: large;
+}
+
